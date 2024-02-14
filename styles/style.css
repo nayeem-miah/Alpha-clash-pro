@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.font-poppins{
+    font-family: "Poppins", sans-serif;
+    
+}
+.font-anton{
+    font-family: "Anton", sans-serif;
+}
+
+main{
+    /* background-image: url(../images/background.png); */
+}
